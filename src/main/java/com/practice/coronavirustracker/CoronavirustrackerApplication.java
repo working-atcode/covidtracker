@@ -11,7 +11,6 @@ public class CoronavirustrackerApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(CoronavirustrackerApplication.class, args);
-		System.out.println("Hello World");
 	}
 
 }
